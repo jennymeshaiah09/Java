@@ -1,4 +1,4 @@
-package sola;
+package registration;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
